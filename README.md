@@ -1,3 +1,2 @@
-# Programas feitos através de atividades da Aula de linguagem da programação. UNINTER
-
-
+# Aula de linguagem da programação. UNINTER
+# Programas feitos através de atividades sugeridas pelo curso
