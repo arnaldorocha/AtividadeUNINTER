@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+C:\Users\55429\OneDrive\Área de Trabalho\Arnaldo Filho\trainning\treinando\faculdade, exercicios\Project1\Project1\Origem.cpp(149,109): warning C4474: 'printf': excesso de argumentos transmitidos para cadeia de caracteres de formato
+C:\Users\55429\OneDrive\Área de Trabalho\Arnaldo Filho\trainning\treinando\faculdade, exercicios\Project1\Project1\Origem.cpp(149,109): message : espaços reservados e seus parâmetros esperam 0 argumentos variadic, mas 2 foram fornecidos
+  Project1.vcxproj -> C:\Users\55429\OneDrive\Área de Trabalho\Arnaldo Filho\trainning\treinando\faculdade, exercicios\Project1\Debug\Project1.exe

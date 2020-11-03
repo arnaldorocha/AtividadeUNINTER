@@ -1,0 +1,6 @@
+﻿  Origem.cpp
+C:\Users\55429\OneDrive\Área de Trabalho\Arnaldo Filho\trainning\treinando\faculdade, exercicios\Project2\Project2\Origem.cpp(59,34): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\55429\OneDrive\Área de Trabalho\Arnaldo Filho\trainning\treinando\faculdade, exercicios\Project2\Project2\Origem.cpp(66,34): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\55429\OneDrive\Área de Trabalho\Arnaldo Filho\trainning\treinando\faculdade, exercicios\Project2\Project2\Origem.cpp(73,34): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\55429\OneDrive\Área de Trabalho\Arnaldo Filho\trainning\treinando\faculdade, exercicios\Project2\Project2\Origem.cpp(80,34): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Project2.vcxproj -> C:\Users\55429\OneDrive\Área de Trabalho\Arnaldo Filho\trainning\treinando\faculdade, exercicios\Project2\Debug\Project2.exe
